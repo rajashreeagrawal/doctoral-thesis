@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="41em" height="988em"><text x="0" y="0">
+<svg xmlns="http://www.w3.org/2000/svg" width="41em" height="923em"><text x="0" y="0">
+<tspan x="0" dy="1.2em">TODO: Make sure to exclude no files (not rewriting) in file jgross-thesis.tex </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 55.</tspan>
 <tspan x="0" dy="1.2em">TODO: Spellcheck the following words: Georges&apos;s, PhDs, naM-CM-/vely, nsatz, </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;romega, wbw in file jgross-thesis.tex on input line 94.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: How do I format the dedication? in file cover.tex on input line </tspan>
@@ -69,31 +71,31 @@
 <tspan x="0" dy="1.2em">&#160;&#160;extensionality in file main-files.tex on input line 10.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: include github code links for contributions in file main-files.tex </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;on input line 11.</tspan>
-<tspan x="0" dy="1.2em">TODO: Insert graph in file chap1-introduction.tex on input line 62.</tspan>
+<tspan x="0" dy="1.2em">TODO: Insert graph in file chap1-introduction.tex on input line 63.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Nickolai says: Seems fine ... but is it really unique to proofs? </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;C++ compilers in the 90s had the same problems. Jason: Maybe see if I can find </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;references. Or just ignore? in file chap1-introduction.tex on input line 79.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;references. Or just ignore? in file chap1-introduction.tex on input line 80.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: find more citations here in file chap1-introduction.tex on input </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;line 84.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 85.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: is it Nuprl or NuPRL? make sure to be consistent in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 95.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 96.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: cite the following in chronological order, maybe in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 112.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 113.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Should I cite \textcite {Computing1960Davis}, which was an earlier </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;form of the resolution rule that proved infeasible? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 131.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 132.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Do I need to say more about LCF? in file chap1-introduction.tex on </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;input line 162.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 163.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Do I need to say more about tactics? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 163.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 164.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Should I mention the following? ``Computer-verified proofs of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;versions of the first incompleteness theorem were announced [...] by Russell </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;O&apos;Connor in 2003 using Coq (O&apos;Connor 2005)&apos;&apos; \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{https://en.wikipedia.org/wiki/GM-CM-6del&apos;s_incompleteness_theorems} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 307.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 308.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Do I need to include anything more from \textcite </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{Proof2009Geuvers,History2014Harrison}? in file chap1-introduction.tex on input </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;line 309.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 310.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I say anything about the Kepler conjecture? ``In 1998 </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;Thomas Hales, following an approach suggested by Fejes TM-CM-3th (1953), announced </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;that he had a proof of the Kepler conjecture. Hales&apos; proof is a proof by </tspan>
@@ -101,45 +103,45 @@
 <tspan x="0" dy="1.2em">&#160;&#160;computer calculations. Referees said that they were ``99\% certain&apos;&apos; of the </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;correctness of Hales&apos; proof, and the Kepler conjecture was accepted as a </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;theorem.&apos;&apos; \url {https://en.wikipedia.org/wiki/Kepler_conjecture} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 319.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 320.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I say something about the year? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 321.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 322.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I mention the following? ``Computer-verified proofs of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;versions of the first incompleteness theorem were announced [...] by John </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;Harrison in 2009 using HOL Light (Harrison 2009). A computer-verified proof of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;both incompleteness theorems was announced by Lawrence Paulson in 2013 using </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;Isabelle (Paulson 2014). `` \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{https://en.wikipedia.org/wiki/GM-CM-6del&apos;s_incompleteness_theorems} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 322.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 323.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: What should I say abound \NuPRL ? in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 325.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 326.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I mention Agda? Idris? Lean? in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 328.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 329.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Do I need to email Randy Pollack(sp?) creator of LEGO, to get </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;historical context? in file chap1-introduction.tex on input line 329.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;historical context? in file chap1-introduction.tex on input line 330.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: How should I conclude this section? in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 331.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 332.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: do I need to say any more before the subsections? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 343.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 344.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: subsubsection structure of this section in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 347.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 348.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I rehash how proofs are done in other proof assistants? in </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 358.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 359.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Work in justification of dependent types ``Randy Pollack, On </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;extensibility of proof checkers, Types for Proofs and Programs (LNCS 996) </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;(Baastad, Sweden), June 1994, WWW: \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{http://homepages.inf.ed.ac.uk/rpollack/export/extensibility.ps.gz}&apos;&apos; from </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;``However, Pollack [21] offers reasons why a dependently-typed programming </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;language may be preferable&apos;&apos; from \textcite {TrustedSlind} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 363.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 364.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Fix overflow of table in file chap1-introduction.tex on input line </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;410.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;411.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: do I need to explain this bit more? in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 435.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 436.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I say more? How to organize this paragraph? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 472.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 473.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: subsection split here? in file chap1-introduction.tex on input </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;line 479.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 480.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: I think the original phrasing of \textcite {stampoulis2013veriml} </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;is much clearer: ``Another variation of the basic architecture that is part of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;the Coq proof assistant is the inclusion of a conversion rule in its logical </tspan>
@@ -151,83 +153,83 @@
 <tspan x="0" dy="1.2em">&#160;&#160;proofs but rather should be automatically decided through computation M-bM-^@M-^S a </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;principle that has been called the PoincarM-CM-) principle&apos;&apos; \cite </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;[p.~1167]{barendregt2001proof} What should be done? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 493.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 494.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: where should I mention that the LCF approach, in particular the </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;ability to never manifest proof objects, is somewhat incompatible with </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;dependent types, as there is no distinction between proofs and terms, and hence </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;proofs must be manifested in general so that we can inspect them~\cite </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;{NewCoqTactics2016Pedrot}. in file chap1-introduction.tex on input line 495.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;{NewCoqTactics2016Pedrot}. in file chap1-introduction.tex on input line 496.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: do I need to do more to explain the idea of reducing proof </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;checking to typechecking (with examples)? in file chap1-introduction.tex on </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;input line 497.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 498.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: do I need to explain the idea of structuring programming so that </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;some properties are true by construction? where do I fit it? what do I say? in </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 499.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 500.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: do I need to explain extensional vs intensional? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 501.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 502.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: is there anything more to say in this section? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 503.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 504.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: is there a clearer way to express this? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 520.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 521.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: what should I say about LCF here? in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 533.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 534.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: should I mention formal verification of \NuPRL \space in Coq? in </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 534.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;file chap1-introduction.tex on input line 535.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: is there anything else to say in this subsection? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 536.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 537.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: cite also the rewriter paper  in file chap1-introduction.tex on </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;input line 546.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 547.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read and cite \textcite {lean-tactic-language} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 580.</tspan>
-<tspan x="0" dy="1.2em">MINOR TODO: read \textcite {Implementing1998Shao} in file </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 581.</tspan>
+<tspan x="0" dy="1.2em">MINOR TODO: read \textcite {Implementing1998Shao} in file </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 582.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read \textcite {Inductive2003Brady} in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 585.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 586.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read \textcite {thesis-nogin} in file chap1-introduction.tex on </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;input line 586.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 587.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read GrM-CM-)goire and Leroy&apos;s paper from ICFP 2002 \textcite </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;{vmcompute} in file chap1-introduction.tex on input line 587.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;{vmcompute} in file chap1-introduction.tex on input line 588.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read Dirk Kleeblatt&apos;s PhD thesis \textcite </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;{Strongly2011Kleeblatt}. in file chap1-introduction.tex on input line 588.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;{Strongly2011Kleeblatt}. in file chap1-introduction.tex on input line 589.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read AndrM-CM-!s KovM-CM-!cs has smalltt at \textcite {smallttKovacs}``, </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;which I don&apos;t think has been written up anywhere but has nonetheless been </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;influential, both on Idris 2 and on Olle Fredriksson&apos;s reimplementation of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;Sixten at \url {https://github.com/ollef/sixty}&apos;&apos; in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 592.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 593.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look at \url {https://github.com/AndrasKovacs/normalization-bench} </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;in file chap1-introduction.tex on input line 593.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;in file chap1-introduction.tex on input line 594.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look at \url {https://github.com/AndrasKovacs/smalltt} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 594.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 595.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: ``I haven&apos;t yet updated the smalltt repo, but there&apos;s a simplified </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;(\url {https://gist.github.com/AndrasKovacs/a0e0938113b193d6b9c1c0620d853784}) </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;implementation of its evaluator, which seems to have roughly the same </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;performance but which is much simpler to implement.&apos;&apos; in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 595.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 596.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: \cite {NewCoqTactics2016Pedrot} about why not LCF tactics in </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;dependently typed setting in file chap1-introduction.tex on input line 597.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;dependently typed setting in file chap1-introduction.tex on input line 598.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look into ``So technically, the lost sharing is the second-order </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;sharing that is preserved in ``optimal reduction&apos;&apos; of lambda calculi </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;[Levy-1980, Lamping-1990, Asperti-Laneve-1992], while hash consing normally is </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;directly usable only for first-order sharing.&apos;&apos; in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 620.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 621.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look at \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{https://math.stackexchange.com/questions/3466976/online-reference-book-for-impl</tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;ementing-concepts-in-type-theory} in file chap1-introduction.tex on input line </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;621.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;622.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look at \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{https://github.com/AndrasKovacs/elaboration-zoo/blob/0c7f8a676c0964cc05c2478793</tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;93e97729f59e5b/AIMprez/AIMprez.pdf} or \url </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;{https://eutypes.cs.ru.nl/eutypes\_pmwiki/uploads/Meetings/Kovacs\_slides.pdf} </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;in file chap1-introduction.tex on input line 622.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;in file chap1-introduction.tex on input line 623.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: read \textcite {Programming2000Barras} in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 626.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 627.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: \textcite {Efficiency1994Boulton} in file chap1-introduction.tex </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;on input line 627.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;on input line 628.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: look into \textcite {Sealing2020Selsam} Sealing Pointer-Based </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;Optimizations Behind Pure Functions in file chap1-introduction.tex on input </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;line 629.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 630.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: where does this description of Coq&apos;s design go? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 634.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;chap1-introduction.tex on input line 635.</tspan>
 <tspan x="0" dy="1.2em">TODO: (FROM Beta Ziliani) Hi Jason, let me give you some preliminary feedback </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;on Chapter 2 (the only I got to read so far, sorry!). These are presentation </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;details, with the only big problem being that I felt at times like I was being </tspan>
@@ -462,14 +464,6 @@
 <tspan x="0" dy="1.2em">&#160;&#160;input line 516.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: put reflective evenness checking in Coq somewhere, fix input of </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;file in file chap3-reflection.tex on input line 546.</tspan>
-<tspan x="0" dy="1.2em">TODO: (FROM Nickolai) Drop intro in file rewriting.tex on input line 5.</tspan>
-<tspan x="0" dy="1.2em">TODO: Mention issue with wbw montgomery code blowup without fusing compiler </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;passes in file rewriting.tex on input line 998.</tspan>
-<tspan x="0" dy="1.2em">TODO: rephrase into fusing compiler passes in file rewriting.tex on input line </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;999.</tspan>
-<tspan x="0" dy="1.2em">TODO: (FROM Nickolai) What&apos;s the point of all these appendices here? in file </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;rewriting.tex on input line 1041.</tspan>
-<tspan x="0" dy="1.2em">TODO: here in file rewriting.tex on input line 1544.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: Better chapter title? in file chap5-rewriting.tex on input line 11.</tspan>
 <tspan x="0" dy="1.2em">MINOR TODO: consider replacing ``pain&apos;&apos; with more formal words like </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;``overhead&apos;&apos;, ``bottleneck&apos;&apos;, etc (Adam says it&apos;s possibly too informal) in </tspan>
@@ -601,11 +595,11 @@
 <tspan x="0" dy="1.2em">QUESTION FOR ADAM: Are there any other grants to cite? in file cover.tex on </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;input line 188.</tspan>
 <tspan x="0" dy="1.2em">MINOR QUESTION FOR ADAM: is this accurate? in file chap1-introduction.tex on </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;input line 315.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 316.</tspan>
 <tspan x="0" dy="1.2em">MINOR QUESTION FOR ADAM: Which, if any, of the projects on </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;http://www.nuprl.org/html/Projects.html are worth mentioning? What about </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;http://www.nuprl.org/Publications/? in file chap1-introduction.tex on input </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;line 326.</tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 327.</tspan>
 <tspan x="0" dy="1.2em">MINOR QUESTION FOR ADAM: is this a place to cite POPLMark? What should be said </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;about it? Should I mention more sorts of representations? in file </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;chap3-reflection.tex on input line 151.</tspan>
@@ -625,19 +619,49 @@
 <tspan x="0" dy="1.2em">Warning: Label `sec:reification-by-parametricity:intro@cref&apos; multiply defined.</tspan>
 <tspan x="0" dy="1.2em">Warning: Label `sec:category-of-categories&apos; multiply defined.</tspan>
 <tspan x="0" dy="1.2em">Warning: Label `sec:category-of-categories@cref&apos; multiply defined.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:intro&apos; on page 14 undefined on input line 187.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:intro&apos; on page 14 undefined on input line 187.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 10 undefined on input line 170.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 30 undefined on input line 546.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 30 undefined on input line 546.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 30 undefined on input line 548.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 57 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 914.</tspan>
 <tspan x="0" dy="1.2em">Warning: Reference `fig:exponential-laws:def:coq&apos; on page 64 undefined on </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;input line 1138.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:intro&apos; on page 129 undefined on input line 1597.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:intro&apos; on page 129 undefined on input line 1597.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:categories&apos; on page 186 undefined on input line 93.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:other&apos; on page 186 undefined on input line 99.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `sec:arguments-vs-fields&apos; on page 190 undefined on input </tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 75 undefined on input line 153.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:setoid-rewrite-bottlenecks&apos; on page 81 undefined on </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;input line 390.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `ch:rewriting&apos; on page 85 undefined on input line 14.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:pattern-matching-compilation-and-evaluation&apos; on page </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;86 undefined on input line 43.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `fig:nbe&apos; on page 87 undefined on input line 61.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 87 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 61.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:under-lets&apos; on page 87 undefined on input line 71.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:under-lets&apos; on page 87 undefined on input line 71.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:our-solution&apos; on page 92 undefined on input line 332.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 92 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 332.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:pattern-matching-compilation-and-evaluation&apos; on page </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;93 undefined on input line 358.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:pattern-matching-compilation-and-evaluation&apos; on page </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;93 undefined on input line 360.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 97 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 469.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:nine-steps&apos; on page 98 undefined on input line 497.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:nine-steps&apos; on page 98 undefined on input line 497.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:under-lets&apos; on page 103 undefined on input line 708.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `fig:nbe&apos; on page 107 undefined on input line 807.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 107 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 807.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:thunk-eval-subst-term&apos; on page 109 undefined on input </tspan>
+<tspan x="0" dy="1.2em">&#160;&#160;line 900.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:categories&apos; on page 130 undefined on input line 93.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:other&apos; on page 130 undefined on input line 99.</tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `sec:arguments-vs-fields&apos; on page 134 undefined on input </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;line 221.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `fig:timing-make-destruct-record&apos; on page 193 undefined on </tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `fig:timing-make-destruct-record&apos; on page 137 undefined on </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;input line 291.</tspan>
-<tspan x="0" dy="1.2em">Warning: Reference `fig:timing-make-destruct-record&apos; on page 193 undefined on </tspan>
+<tspan x="0" dy="1.2em">Warning: Reference `fig:timing-make-destruct-record&apos; on page 137 undefined on </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;input line 298.</tspan>
 <tspan x="0" dy="1.2em">Font shape `U/stmry/m/n&apos; in size &lt;8.41483&gt; not available; size &lt;8&gt; substituted </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;on input line 94.</tspan>
@@ -645,13 +669,9 @@
 <tspan x="0" dy="1.2em">&#160;&#160;tried instead on input line 2.</tspan>
 <tspan x="0" dy="1.2em">Font shape `TU/lmtt/bx/n&apos; in size &lt;10&gt; not available; Font shape `TU/lmtt/b/n&apos; </tspan>
 <tspan x="0" dy="1.2em">&#160;&#160;tried instead on input line 2.</tspan>
-<tspan x="0" dy="1.2em">Font shape `TU/lmtt/bx/n&apos; in size &lt;14.4&gt; not available; Font shape </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;`TU/lmtt/b/n&apos; tried instead on input line 1.</tspan>
-<tspan x="0" dy="1.2em">Font shape `TU/lmtt/bx/n&apos; in size &lt;17.28&gt; not available; Font shape </tspan>
-<tspan x="0" dy="1.2em">&#160;&#160;`TU/lmtt/b/n&apos; tried instead on input line 1541.</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (33.25706pt too wide) in paragraph at lines 58--60</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (9.2482pt too wide) in paragraph at lines 397--411 []</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.90422pt too wide) in paragraph at lines 568--573</tspan>
+<tspan x="0" dy="1.2em">Overfull \hbox (9.2482pt too wide) in paragraph at lines 398--412 []</tspan>
+<tspan x="0" dy="1.2em">Overfull \hbox (0.90422pt too wide) in paragraph at lines 569--574</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (14.89865pt too wide) in paragraph at lines 70--91[]</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (4.84007pt too wide) in paragraph at lines 195--217[]</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (4.53596pt too wide) in paragraph at lines 408--441[]</tspan>
@@ -663,80 +683,6 @@
 <tspan x="0" dy="1.2em">Overfull \hbox (16.16423pt too wide) in paragraph at lines 1105--1108[]</tspan>
 <tspan x="0" dy="1.2em">Underfull \hbox (badness 1215) in paragraph at lines 496--500</tspan>
 <tspan x="0" dy="1.2em">Underfull \hbox (badness 1009) in paragraph at lines 496--500</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (3.08109pt too wide) in paragraph at lines 208--214[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.87762pt too wide) in paragraph at lines 307--310</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (6.68578pt too wide) in paragraph at lines 317--318</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (2.68085pt too wide) in paragraph at lines 359--361[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (12.05663pt too wide) in paragraph at lines 361--362[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (2.71304pt too wide) in paragraph at lines 523--1</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (15.56984pt too wide) in paragraph at lines 726--728</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 10000) in paragraph at lines 859--866[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 1859) in paragraph at lines 928--937[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (27.94902pt too wide) in paragraph at lines 1054--1056</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 10000) in paragraph at lines 1114--1117[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 10000) in paragraph at lines 1168--1177[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (14.50775pt too wide) in paragraph at lines 1223--1223[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 1430) in paragraph at lines 1245--1245[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 1286) in paragraph at lines 1246--1246[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 1577) in paragraph at lines 1247--1247[]</tspan>
-<tspan x="0" dy="1.2em">Underfull \hbox (badness 1286) in paragraph at lines 1248--1248[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (66.77979pt too wide) in paragraph at lines 1406--1410</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (3.3011pt too wide) in paragraph at lines 1406--1410</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (54.43974pt too wide) in paragraph at lines 1550--1554[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (49.76343pt too wide) in paragraph at lines 1550--1554</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (153.49994pt too wide) in paragraph at lines 1550--1554</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (7.33438pt too wide) in paragraph at lines 1558--1562</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (26.96805pt too wide) in paragraph at lines 1576--1579[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (6.50948pt too wide) in paragraph at lines 1580--1585</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (14.91994pt too wide) in paragraph at lines 1588--1592[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (43.82367pt too wide) in paragraph at lines 1612--1614[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (13.42784pt too wide) in paragraph at lines 1612--1614</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (77.92842pt too wide) in paragraph at lines 1643--1647</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (97.57782pt too wide) in paragraph at lines 1643--1647</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (125.34036pt too wide) in paragraph at lines 1649--1652</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (2.49203pt too wide) in paragraph at lines 1657--1659</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (42.59215pt too wide) in paragraph at lines 1665--1668</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (56.50882pt too wide) in paragraph at lines 1668--1672</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (7.72444pt too wide) in paragraph at lines 1668--1672</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (76.41965pt too wide) in paragraph at lines 1668--1672</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (79.7159pt too wide) in paragraph at lines 1668--1672</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (8.48375pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (14.95197pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (70.94415pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (7.47612pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (4.84763pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (57.56516pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (69.36761pt too wide) in paragraph at lines 1672--1676</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (13.24908pt too wide) in paragraph at lines 1676--1680</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (31.0517pt too wide) in paragraph at lines 1676--1680</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (144.32993pt too wide) in paragraph at lines 1680--1682</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (4.5518pt too wide) in paragraph at lines 1680--1682</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.87762pt too wide) in paragraph at lines 1694--1698</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (17.04411pt too wide) in paragraph at lines 1701--1702</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (1.652pt too wide) in paragraph at lines 1737--1740</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (42.54831pt too wide) in paragraph at lines 1775--1778[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (59.84792pt too wide) in paragraph at lines 1775--1778</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (21.50388pt too wide) in paragraph at lines 1779--1780[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (2.9199pt too wide) in paragraph at lines 1781--1786[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.90775pt too wide) in paragraph at lines 1793--1795[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (16.51253pt too wide) in paragraph at lines 1800--1803</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.69978pt too wide) in paragraph at lines 1804--1811</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (1.05956pt too wide) in paragraph at lines 1812--1813</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (58.08812pt too wide) in paragraph at lines 1814--1817[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (4.51576pt too wide) in paragraph at lines 1814--1817</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (13.80391pt too wide) in paragraph at lines 1857--1860</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (3.8532pt too wide) in paragraph at lines 1857--1860</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (35.80785pt too wide) in paragraph at lines 1863--1864</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (53.4556pt too wide) in paragraph at lines 1863--1864</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (68.7477pt too wide) in paragraph at lines 1863--1864</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (31.34038pt too wide) in paragraph at lines 1869--1873</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (87.04498pt too wide) in paragraph at lines 1869--1873</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (39.24126pt too wide) in paragraph at lines 1874--1876[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (14.77971pt too wide) in paragraph at lines 1877--1878</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (4.59834pt too wide) in paragraph at lines 1877--1878</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (2.51692pt too wide) in paragraph at lines 1888--1889[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (21.65686pt too wide) in paragraph at lines 1890--1891[]</tspan>
-<tspan x="0" dy="1.2em">Overfull \hbox (0.92882pt too wide) in paragraph at lines 1896--1897[]</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (99.79004pt too wide) in paragraph at lines 26--26[]</tspan>
 <tspan x="0" dy="1.2em">Underfull \hbox (badness 10000) in paragraph at lines 26--26</tspan>
 <tspan x="0" dy="1.2em">Overfull \hbox (11.81384pt too wide) in paragraph at lines 141--145</tspan>
